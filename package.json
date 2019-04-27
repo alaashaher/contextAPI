@@ -1,0 +1,21 @@
+{
+  "name": "login-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3004",
+    "build": "next build",
+    "start": "next  start  -p 3000"
+  },
+  "eywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0"
+  }
+}
